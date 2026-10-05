@@ -1,7 +1,7 @@
 # DeXpose – Cybersecurity & Dark Web Monitoring
 
 DeXpose is a cybersecurity platform focused on helping organizations
-identify digital risks and protect their online presence.
+identify digital risks and protect their online presence
 
 ## What is DeXpose?
 
